@@ -1,0 +1,48 @@
+/*body {
+  margin: 0;
+  padding: 0;
+}*/
+
+section {
+  background-color: #E5B931;
+  color: black;
+  width: 100%;
+  position: absolute;
+  padding-left:80px;
+}
+
+section p {
+  padding-left:0;
+  color: black;
+}
+
+
+main {
+  padding-top: 150px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.box {
+  height: 400px;
+  text-align: left;
+  border: 1px solid #D3D3D3;
+}
+
+.name {
+  font-weight: bold;
+}
+
+img {
+  height: 300px;
+  display: block;
+  width: 100%;
+
+}
+
+p {
+  color: black;
+  padding-left: 10px;
+}
