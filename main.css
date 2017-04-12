@@ -3,12 +3,17 @@
   padding: 0;
 }*/
 
-section {
+/*section {
   background-color: #E5B931;
   color: black;
   width: 100%;
-  position: absolute;
+  position: fixed;
   padding-left:80px;
+}*/
+
+header {
+  background-color: #E5B931;
+  margin-bottom: 40px;
 }
 
 section p {
@@ -18,7 +23,7 @@ section p {
 
 
 main {
-  padding-top: 150px;
+  padding-top: 0px;
 }
 
 main .row {
